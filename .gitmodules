@@ -5,5 +5,8 @@
 
 [submodule "terraform-labs"]
     active = true
-    path = aws-data-pipeline-lambda-cd
-    url = "https://github.com/shiyis/terraform-labs.git"
+	path = terraform-labs
+	url = https://github.com/shiyis/terraform-labs.git
+[submodule "pa-cands-git-scraping"]
+	path = pa-cands-git-scraping
+	url = https://github.com/shiyis/pa-cands-git-scraping.git
