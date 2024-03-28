@@ -8,7 +8,7 @@ This repo holds all the aws data engineering practices and general data pipeline
 
 [terraform-labs](https://github.com/shiyis/terraform-labs) data engineering schema config with terraform hcl.
 
-[sklearn_tutorial](https://github.com/jakevdp/sklearn_tutorial/tree/5098cee2a638c56c311aca0c18987e407fe127fd) sklearn machine learnnig library tutorials 
+[sklearn_tutorial](https://github.com/jakevdp/sklearn_tutorial/tree/5098cee2a638c56c311aca0c18987e407fe127fd) sklearn machine learning library tutorials 
 
 [dra-data](https://github.com/shiyis/dra-data) open source data collection with github action _flat_ and manifest file.
 
