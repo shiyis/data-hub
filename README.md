@@ -8,10 +8,10 @@ This repo holds all the aws data engineering practices and general data pipeline
 
 [terraform-labs](https://github.com/shiyis/terraform-labs) data engineering schema config with terraform hcl.
 
-[sklearn_tutorial](https://github.com/jakevdp/sklearn_tutorial/tree/5098cee2a638c56c311aca0c18987e407fe127fd) sklearn machine learning library tutorials 
+[sklearn_tutorial](https://github.com/jakevdp/sklearn_tutorial/tree/5098cee2a638c56c311aca0c18987e407fe127fd) sklearn machine learning library tutorials
 
 [dra-data](https://github.com/shiyis/dra-data) open source data collection with github action _flat_ and manifest file.
 
 [pyspark-etl-example](https://github.com/AlexIoannides/pyspark-example-project/tree/eeee0c2b9af79fdd7c5d86fe56466c147b487e26) a pyspark etl example that extracts, transforms, and loads dummy data
 
-[yelp-to-xml](https://github.com/shiyis/data-labs/yelp_xml) A small data collection app/lab of yelp reviews; converted to xml, cleaned, wrangled and managed.
+[yelp-to-xml](https://github.com/shiyis/data-labs/tree/master/yelp_xml) A small data collection app/lab of yelp reviews; converted to xml, cleaned, wrangled and managed.
