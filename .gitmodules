@@ -36,3 +36,6 @@
 [submodule "sklearn_tutorial"]
 	path = sklearn_tutorial
 	url = https://github.com/jakevdp/sklearn_tutorial.git
+[submodule "yelp-xml"]
+	path = yelp-xml
+	url = https://github.com/shiyis/yelp-xml.git
