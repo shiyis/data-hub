@@ -4,11 +4,9 @@ This repo holds all the aws data engineering practices and general data pipeline
 
 [aws-sam-cicd](https://github.com/shiyis/aws-serverless-etl-cicd) is a simple aws data pipeline that streams, validates, and loads tweets.
 
-[c4fe-twitter-archive](https://github.com/shiyis/c4pe2022-tweets) is a github action tweet scraper workflow that could run with specified schedule in cron and config'ed in YAML.
+[twitter-archive](https://github.com/shiyis/twitter-archive) is a github action workflow that retrieves tweet using YAML configuration.
 
 [terraform-labs](https://github.com/shiyis/terraform-labs) data engineering schema config with terraform hcl.
-
-[sklearn-tutorial](https://github.com/jakevdp/sklearn_tutorial/tree/5098cee2a638c56c311aca0c18987e407fe127fd) sklearn machine learning library tutorials
 
 [dra-data](https://github.com/shiyis/dra-data) open source data collection with github action _flat_ and manifest file.
 
