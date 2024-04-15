@@ -38,4 +38,4 @@
 	url = https://github.com/jakevdp/sklearn_tutorial.git
 [submodule "yelp-to-xml"]
 	path = yelp-to-xml
-	url = https://github.com/shiyis/yelp-xml.git
+	url = https://github.com/shiyis/yelp-to-xml.git
