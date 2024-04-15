@@ -4,18 +4,9 @@
 [submodule "dra-data"]
 	path = dra-data
 	url = https://github.com/shiyis/dra-data
-[submodule "aws-serverless-etl-cicd"]
-	path = aws-serverless-etl-cicd
-	url = https://github.com/shiyis/aws-serverless-etl-cicd
-[submodule "aws-serverless-etl"]
-	path = aws-serverless-etl
-	url = https://github.com/shiyis/aws-serverless-etl
-	branch = master
 [submodule "twitter-archive"]
 	path = twitter-archive
 	url = https://github.com/shiyis/c4pe2022-tweets/
-[submodule "https://github.com/shiyis/aws-serverless-etl/"]
-	url = aws-serverless-etl
 [submodule "aws-sam-cicd"]
 	path = aws-sam-cicd
 	url = https://github.com/shiyis/aws-serverless-etl/
