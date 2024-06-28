@@ -22,3 +22,6 @@
 [submodule "bps_coaching_log"]
 	path = bps_coaching_log
 	url = https://github.com/shiyis/bps_upk_coaching_log
+[submodule "bps-eda"]
+	path = bps-eda
+	url = https://github.com/shiyis/bps-eda
